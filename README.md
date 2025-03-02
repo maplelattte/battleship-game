@@ -17,13 +17,7 @@ A turn-based Battleship game built in Java. The goal is to sink all enemy ships 
 
 🛠 Installation & Setup
 
-    Clone the repository:
-
-git clone https://github.com/maplelattte/battleship-game.git
-
-Navigate to the project folder:
-
-cd battleship-java
+    Clone the repository
 
 Compile and run the game:
 
